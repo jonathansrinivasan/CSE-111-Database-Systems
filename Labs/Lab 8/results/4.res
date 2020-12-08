@@ -1,0 +1,2 @@
+--EQP-- 0,0,0,SCAN TABLE lineitem
+33.0199961235302
